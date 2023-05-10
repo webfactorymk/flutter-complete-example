@@ -1,6 +1,6 @@
-# Flutter Template
+# Flutter Todo Example projext 
 
-Flutter template project - A simple TODO list app. This template provides simple UI and scalable project structure that goes beyond the simple counter example. 
+A simple TODO list app. This example provides simple UI and scalable project structure that goes beyond the simple counter example. 
 
 The app has basic login and signup screens, task list, task details, and settings screen. It supports multiple languages and in-app language change, and light and dark theme. 
 
@@ -63,10 +63,9 @@ and [this blog post][blog_flavouring_flutter].
 [flutter_flavours_official]: https://flutter.dev/docs/deployment/flavors
 [blog_flavouring_flutter]: https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36
 
-# Use as template
+# Use as starting point
 
-You can copy this repository with the _Use this template_ button and go on from there, or download the code and use it in you project.
-Afterwards, you'll need to rename the project and change the app id and configuration. There are ToDos scattered through the project that will help you transition this project to your needs.
+You'll need to rename the project and change the app id and configuration. There are ToDos scattered through the project that will help you transition this project to your needs.
 
 <img src="https://github.com/webfactorymk/flutter-template/blob/main/diagrams/use_as_template.png" alt="Use as template" width="520">
 
